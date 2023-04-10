@@ -1,0 +1,8 @@
+INFO:root:New TCP client connected from 192.168.43.61:50256
+INFO:root:New TCP client connected from 192.168.43.61:33168
+INFO:root:File transfered correctly
+INFO:root:Time for transfer: 59.27373399999999
+INFO:root:File hash recieved: a0b8c1958c2a1aba371248965b0f450588e9d1020106e451a42838259ae210f8
+INFO:root:File transfered correctly
+INFO:root:Time for transfer: 49.86958729999999
+INFO:root:File hash recieved: a0b8c1958c2a1aba371248965b0f450588e9d1020106e451a42838259ae210f8

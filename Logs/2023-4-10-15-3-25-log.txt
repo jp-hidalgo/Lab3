@@ -1,0 +1,6 @@
+INFO:root:File name: C:/Users/jphid/Downloads/100MB.bin
+INFO:root:File size: 100000000
+INFO:root:File hash sent: a0b8c1958c2a1aba371248965b0f450588e9d1020106e451a42838259ae210f8
+INFO:root:File name: C:/Users/jphid/Downloads/250MB.bin
+INFO:root:File size: 250000000
+INFO:root:File hash sent: a93b905cefe96fe470a38bd403a06fe63bb1a8ac85e649a879205aee0308430d

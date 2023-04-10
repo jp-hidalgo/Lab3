@@ -1,0 +1,20 @@
+INFO:root:New TCP client connected from 192.168.43.204:54403
+INFO:root:New TCP client connected from 192.168.43.204:54409
+INFO:root:New TCP client connected from 192.168.43.204:54417
+INFO:root:New TCP client connected from 192.168.43.204:54420
+INFO:root:New TCP client connected from 192.168.43.204:54422
+INFO:root:File transfered correctly
+INFO:root:Time for transfer: 277.5690454200003
+INFO:root:File hash recieved: a0b8c1958c2a1aba371248965b0f450588e9d1020106e451a42838259ae210f8
+INFO:root:File transfered correctly
+INFO:root:Time for transfer: 276.8278293080002
+INFO:root:File hash recieved: a0b8c1958c2a1aba371248965b0f450588e9d1020106e451a42838259ae210f8
+INFO:root:File transfered correctly
+INFO:root:Time for transfer: 392.41996520199973
+INFO:root:File hash recieved: a0b8c1958c2a1aba371248965b0f450588e9d1020106e451a42838259ae210f8
+INFO:root:File transfered correctly
+INFO:root:Time for transfer: 388.57457119300034
+INFO:root:File hash recieved: a0b8c1958c2a1aba371248965b0f450588e9d1020106e451a42838259ae210f8
+INFO:root:File transfered correctly
+INFO:root:Time for transfer: 359.8840036919996
+INFO:root:File hash recieved: a0b8c1958c2a1aba371248965b0f450588e9d1020106e451a42838259ae210f8

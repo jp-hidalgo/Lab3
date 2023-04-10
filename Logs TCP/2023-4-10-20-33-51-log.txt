@@ -1,0 +1,40 @@
+INFO:root:New TCP client connected from 192.168.43.204:54831
+INFO:root:New TCP client connected from 192.168.43.204:54835
+INFO:root:New TCP client connected from 192.168.43.204:54836
+INFO:root:New TCP client connected from 192.168.43.204:54837
+INFO:root:New TCP client connected from 192.168.43.204:54843
+INFO:root:New TCP client connected from 192.168.43.204:54845
+INFO:root:New TCP client connected from 192.168.43.204:54846
+INFO:root:File transfered correctly
+INFO:root:Time for transfer: 0.08830304600087402
+INFO:root:File hash recieved: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+INFO:root:New TCP client connected from 192.168.43.204:54848
+INFO:root:New TCP client connected from 192.168.43.204:54850
+INFO:root:New TCP client connected from 192.168.43.204:54852
+INFO:root:File transfered correctly
+INFO:root:Time for transfer: 220.7100097319999
+INFO:root:File hash recieved: a0b8c1958c2a1aba371248965b0f450588e9d1020106e451a42838259ae210f8
+INFO:root:File transfered correctly
+INFO:root:Time for transfer: 277.5021896980006
+INFO:root:File hash recieved: a0b8c1958c2a1aba371248965b0f450588e9d1020106e451a42838259ae210f8
+INFO:root:File transfered correctly
+INFO:root:Time for transfer: 349.4537649619997
+INFO:root:File hash recieved: a0b8c1958c2a1aba371248965b0f450588e9d1020106e451a42838259ae210f8
+INFO:root:File transfered correctly
+INFO:root:Time for transfer: 326.48602611000024
+INFO:root:File hash recieved: a0b8c1958c2a1aba371248965b0f450588e9d1020106e451a42838259ae210f8
+INFO:root:File transfered correctly
+INFO:root:Time for transfer: 404.8512021300003
+INFO:root:File hash recieved: a0b8c1958c2a1aba371248965b0f450588e9d1020106e451a42838259ae210f8
+INFO:root:File transfered correctly
+INFO:root:Time for transfer: 391.3011498299993
+INFO:root:File hash recieved: a0b8c1958c2a1aba371248965b0f450588e9d1020106e451a42838259ae210f8
+INFO:root:File transfered correctly
+INFO:root:Time for transfer: 372.6846495279997
+INFO:root:File hash recieved: a0b8c1958c2a1aba371248965b0f450588e9d1020106e451a42838259ae210f8
+INFO:root:File transfered correctly
+INFO:root:Time for transfer: 367.18306273799953
+INFO:root:File hash recieved: a0b8c1958c2a1aba371248965b0f450588e9d1020106e451a42838259ae210f8
+INFO:root:File transfered correctly
+INFO:root:Time for transfer: 359.80559071399966
+INFO:root:File hash recieved: a0b8c1958c2a1aba371248965b0f450588e9d1020106e451a42838259ae210f8

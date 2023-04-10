@@ -1,0 +1,6 @@
+INFO:root:File name: /home/juan/Documents/Cliente5-Prueba-1.txt
+INFO:root:File size: 250000000
+INFO:root:File hash sent: a93b905cefe96fe470a38bd403a06fe63bb1a8ac85e649a879205aee0308430d
+INFO:root:File name: /home/juan/Documents/get-pip.py
+INFO:root:File size: 2574273
+INFO:root:File hash sent: 394be00f13fa1b9aaa47e911bdb59a09c3b2986472130f30aa0bfaf7f3980637
